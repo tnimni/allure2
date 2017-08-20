@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: firstTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.111 s <<< FAILURE! - in firstTest
+Test mechanism  Time elapsed: 0.043 s  <<< ERROR!
+java.lang.NullPointerException
+
